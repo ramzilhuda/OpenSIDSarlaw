@@ -24,14 +24,19 @@ Web-browser (yang mendukung html 5 dan css3):
 
 # Install di Windows menggunakan berkas .rar
 1.	Download folder OpenSID di https://github.com/OpenSID/OpenSID.
+![installation 5](https://user-images.githubusercontent.com/60292040/106534116-ee3b6f80-6525-11eb-802a-8a67daa05cea.jpg)
 2.	Install webserver di komputer, di sini penulis memakai xampp.
 3.	Extract folder OpenSID yang sudah di download di C:\xampp\htdocs.
 4.	Import database awal yang sudah ada, ke mysql localhost.
 5.	Jalankan Xampp-control dan jalankan services apache dan mysql.
 6.	Jalankan web browser dipenelitian ini penulis memakai google chrome dan alamat masukan alamat : http://localhost/opensid/index.php/siteman
+![installation 1](https://user-images.githubusercontent.com/60292040/106534108-eaa7e880-6525-11eb-801d-9a20efe80169.jpg)
 7.	Masukan nama pengguna dan kata kunci
     Nama pengguna : admin
     Kata kunci : sid304
 8.	Tampilan menu dashboard administrator akan muncul.
+![installation 3](https://user-images.githubusercontent.com/60292040/106534112-eda2d900-6525-11eb-9f71-a498931abda2.jpg)
 9.	Silahakan di menu pengataruan info sistem, apakah semuanya sudah berjalan dengan baik.
-
+![installation 4](https://user-images.githubusercontent.com/60292040/106534115-ee3b6f80-6525-11eb-9a49-61e084927bef.jpg)
+10. Tampilan sistem informasi desa/nagari Sariak Laweh
+![installation 2](https://user-images.githubusercontent.com/60292040/106534111-ed0a4280-6525-11eb-82f4-4da5e9e551c7.jpg)
