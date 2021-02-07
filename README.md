@@ -27,8 +27,8 @@ Web-browser (yang mendukung html 5 dan css3):
 ![installation 5](https://user-images.githubusercontent.com/60292040/106534116-ee3b6f80-6525-11eb-802a-8a67daa05cea.jpg)
 2.	Install webserver di komputer, di sini penulis memakai xampp.
 3.	Extract folder OpenSID yang sudah di download di C:\xampp\htdocs.
-4.	Import database awal yang sudah ada, ke mysql localhost.
-5.	Jalankan Xampp-control dan jalankan services apache dan mysql.
+4.	Jalankan Xampp-control dan jalankan services apache dan mysql.
+5.	Import database awal yang sudah ada ( sesuaikan dengan database anda ), ke mysql localhost.
 6.	Jalankan web browser dipenelitian ini penulis memakai google chrome dan alamat masukan alamat : http://localhost/opensid/index.php/siteman
 ![installation 1](https://user-images.githubusercontent.com/60292040/106534108-eaa7e880-6525-11eb-801d-9a20efe80169.jpg)
 7.	Masukan nama pengguna dan kata kunci
